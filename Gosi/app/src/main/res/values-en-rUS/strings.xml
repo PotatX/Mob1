@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gosi</string>
+    <string name="hello_blank_fragment">govno</string>
+    <string name="button_add_string">Add</string>
+    <string name="button_change_string">Change</string>
+    <string name="button_export_string">Export</string>
+    <string name="button_import_string">Import</string>
+    <string name="button_report_string">Report</string>
+    <string name="textPlateName">Name</string>
+    <string name="textPlateSurname">Surname</string>
+    <string name="textPlateCode">Code</string>
+    <string name="buttonSave">Save</string>
+    <string name="count">Count</string>
+    <string name="buttonDelete">Delete</string>
+    <string name="clientFIO">NS</string>
+    <string name="isdeleted">isDeleted</string>
+    <string name="inuse">inUse</string>
+    <string name="isnew">isNew</string>
+</resources>

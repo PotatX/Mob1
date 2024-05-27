@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".report.ReportFragment">
+
+    <LinearLayout
+        android:id="@+id/commonGroup"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textViewIsNew"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/isnew" />
+
+        <ListView
+            android:id="@+id/report_list_isNew"
+            android:layout_width="match_parent"
+            android:layout_height="193dp">
+
+        </ListView>
+
+        <TextView
+            android:id="@+id/textViewInUse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/inuse" />
+
+        <ListView
+            android:id="@+id/report_list_inUse"
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
+
+        <TextView
+            android:id="@+id/textViewIsDeleted"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/isdeleted" />
+
+        <ListView
+            android:id="@+id/report_list_isDeleted"
+            android:layout_width="match_parent"
+            android:layout_height="177dp" />
+
+    </LinearLayout>
+
+</FrameLayout>

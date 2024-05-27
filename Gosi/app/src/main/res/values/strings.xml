@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Gosi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_add_string">Добавить</string>
+    <string name="button_change_string">Поменять</string>
+    <string name="button_export_string">Экспорт</string>
+    <string name="button_import_string">Импорт</string>
+    <string name="button_report_string">Отчет</string>
+    <string name="textPlateName">Имя</string>
+    <string name="textPlateSurname">Фамилия</string>
+    <string name="textPlateCode">Код</string>
+    <string name="buttonSave">Сохранить и помиловать</string>
+    <string name="count">Количество</string>
+    <string name="buttonDelete">Удолить</string>
+    <string name="clientFIO">ФИО</string>
+    <string name="isdeleted">IsDeleted</string>
+    <string name="inuse">InUse</string>
+    <string name="isnew">IsNew</string>
+</resources>
